@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	background-color: #7ba6f1;
+}
+
+h1 {
+	align: center;
+	color: #fbbd15;
+}
+
+.heading {
+	background-color: #7BA6F1;
+	align-content: center;
+	margin: 0px;
+}
+
+h3 {
+	color: #fbbd15;
+}
+
+.heading {
+	text-align: center;
+	clear: left;
+}
+
+.center {
+	text-align: center;
+	background-color: #7BA6F1;
+	margin: 0px;
+}
+
+p {
+	align: center;
+	margin-top: 0px;
+ 	font-size: 18px;
+}
+
+.icons {
+	align: center;
+}
+
+img {
+	width: 50px;
+	align: left;
+	margin-top: 10px;
+	margin-bottom: -9px;
+}
+
+.footer {
+	background-color: #7BA6F1;
+	text-align: center;
+	font-size: 30px;
+	clear: none;
+	float: none;
+	text-decoration: none;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	text-color: #fbbd15;
+}
+
+a:link {
+	color: rgba(14,19,245,1.00);
+	text-decoration: none;
+	margin-bottom: 5px;
+}
+
+a:hoover {
+	color: #FFD111;
+}
+
+
+p a img {
+}
+
+.heading {
+	margin-top: 0px;
+	min-height: 0px;
+}
